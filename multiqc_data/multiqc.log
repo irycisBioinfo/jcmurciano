@@ -1,0 +1,39 @@
+[2022-12-01 13:49:40,389] multiqc                                            [DEBUG  ]  This is MultiQC v1.13
+[2022-12-01 13:49:40,389] multiqc                                            [DEBUG  ]  Command used: /home/val/.local/bin/multiqc .
+[2022-12-01 13:49:41,618] multiqc                                            [DEBUG  ]  Latest MultiQC version is v1.13
+[2022-12-01 13:49:41,618] multiqc                                            [DEBUG  ]  Working dir : /storage2/Murciano/FASTQs/nextflow
+[2022-12-01 13:49:41,618] multiqc                                            [DEBUG  ]  Template    : default
+[2022-12-01 13:49:41,619] multiqc                                            [DEBUG  ]  Running Python 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+[2022-12-01 13:49:41,619] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, ccs, ngsderive, purple, conpair, lima, peddy, somalier, methylQA, mosdepth, phantompeakqualtools, qualimap, preseq, quast, qorts, rna_seqc, rockhopper, rsem, rseqc, busco, bustools, goleft_indexcov, gffcompare, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, mirtop, sambamba, homer, hops, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, fgbio, dragen, dedup, pbmarkdup, damageprofiler, biobambam2, jcvi, mtnucratio, picard, vep, sentieon, prokka, qc3C, nanostat, samblaster, samtools, sexdeterrmine, eigenstratdatabasetools, bamtools, jellyfish, vcftools, longranger, stacks, varscan2, snippy, bbmap, bismark, biscuit, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, snpsplit, odgi, pangolin, kat, leehom, adapterRemoval, clipandmerge, cutadapt, flexbar, kaiju, kraken, malt, trimmomatic, sickle, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, pychopper, pycoqc, minionqc, multivcfanalyzer, clusterflow, checkqc, bcl2fastq, bclconvert, interop, ivar, flash, seqyclean, optitype, whatshap
+[2022-12-01 13:49:41,620] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpq6jhkjvv
+[2022-12-01 13:49:41,745] multiqc                                            [INFO   ]  Search path : /storage2/Murciano/FASTQs/nextflow
+[2022-12-01 13:49:48,745] multiqc                                            [DEBUG  ]  Summary of files that were skipped by the search: [skipped_module_specific_max_filesize: 984] // [skipped_file_contents_search_errors: 934] // [skipped_no_match: 360] // [skipped_ignore_pattern: 211] // [skipped_filesize_limit: 35]
+[2022-12-01 13:49:48,952] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.6.2
+[2022-12-01 13:49:48,952] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.6.2
+[2022-12-01 13:49:48,952] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2022-12-01 13:49:49,033] multiqc.modules.mirtop.mirtop                      [INFO   ]  Found 15 reports
+[2022-12-01 13:49:49,048] multiqc.modules.samtools.samtools                  [INFO   ]  Found 30 stats reports
+[2022-12-01 13:49:49,060] multiqc.modules.samtools.samtools                  [INFO   ]  Found 45 flagstat reports
+[2022-12-01 13:49:50,712] multiqc.modules.samtools.samtools                  [INFO   ]  Found 45 idxstats reports
+[2022-12-01 13:49:50,727] multiqc.modules.cutadapt.cutadapt                  [INFO   ]  Found 15 reports
+[2022-12-01 13:49:51,935] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'S453_fastqc.zip' as already parsed 'S453'
+[2022-12-01 13:49:51,935] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'S531_fastqc.zip' as already parsed 'S531'
+[2022-12-01 13:49:51,935] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'S332_fastqc.zip' as already parsed 'S332'
+[2022-12-01 13:49:51,935] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'S310_fastqc.zip' as already parsed 'S310'
+[2022-12-01 13:49:51,935] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'S451_fastqc.zip' as already parsed 'S451'
+[2022-12-01 13:49:51,935] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'S71_fastqc.zip' as already parsed 'S71'
+[2022-12-01 13:49:51,936] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'S385_fastqc.zip' as already parsed 'S385'
+[2022-12-01 13:49:51,936] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'S209_fastqc.zip' as already parsed 'S209'
+[2022-12-01 13:49:51,936] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'S365_fastqc.zip' as already parsed 'S365'
+[2022-12-01 13:49:51,936] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'S726_fastqc.zip' as already parsed 'S726'
+[2022-12-01 13:49:51,936] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'S155_fastqc.zip' as already parsed 'S155'
+[2022-12-01 13:49:51,936] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'S349_fastqc.zip' as already parsed 'S349'
+[2022-12-01 13:49:51,936] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'S328_fastqc.zip' as already parsed 'S328'
+[2022-12-01 13:49:51,936] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'S171_fastqc.zip' as already parsed 'S171'
+[2022-12-01 13:49:51,936] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Skipping 'S245_fastqc.zip' as already parsed 'S245'
+[2022-12-01 13:49:51,936] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 15 reports
+[2022-12-01 13:49:52,044] multiqc                                            [INFO   ]  Compressing plot data
+[2022-12-01 13:49:52,564] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2022-12-01 13:49:52,564] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2022-12-01 13:49:52,564] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpq6jhkjvv/multiqc_data' to '/storage2/Murciano/FASTQs/nextflow/multiqc_data'
+[2022-12-01 13:49:52,642] multiqc                                            [INFO   ]  MultiQC complete

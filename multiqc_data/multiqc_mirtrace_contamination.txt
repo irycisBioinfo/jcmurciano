@@ -1,0 +1,16 @@
+Sample	bryophytes	lycopods	gymnosperms	monocots	dicots	sponges	nematode	insects	lophotrochozoa	echinoderms	fish	birds_reptiles	rodents	primates
+S155	0	0	0	0	0	0	0	0	0	0	0	0	0	4659
+S171	0	0	0	0	0	0	0	0	0	0	0	0	0	8523
+S209	0	0	0	0	0	0	0	0	0	0	0	0	0	4265
+S245	0	0	0	0	0	0	0	0	0	0	0	0	0	3662
+S310	0	0	0	0	0	0	0	0	0	0	0	0	0	5940
+S328	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+S332	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+S349	0	0	0	0	0	0	0	0	0	0	0	0	0	4959
+S365	0	0	0	0	0	0	0	0	0	0	0	0	0	3375
+S385	0	0	0	0	0	0	0	0	0	0	0	0	0	101
+S451	0	0	0	0	0	0	0	0	0	0	0	0	0	3696
+S453	0	0	0	0	0	0	0	0	0	0	0	0	0	490
+S531	0	0	0	0	0	0	0	0	0	0	0	0	0	2223
+S71	0	0	0	0	0	0	0	0	0	0	0	0	0	4312
+S726	0	0	0	0	0	0	0	0	0	0	0	0	0	1312
